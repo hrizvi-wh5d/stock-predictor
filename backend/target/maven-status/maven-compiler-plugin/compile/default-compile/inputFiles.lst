@@ -1,0 +1,11 @@
+/workspaces/stock-predictor/backend/src/main/java/com/stockpredictor/controller/UserController.java
+/workspaces/stock-predictor/backend/src/main/java/com/stockpredictor/service/PredictionService.java
+/workspaces/stock-predictor/backend/src/main/java/com/stockpredictor/security/JwtUtils.java
+/workspaces/stock-predictor/backend/src/main/java/com/stockpredictor/repository/UserRepository.java
+/workspaces/stock-predictor/backend/src/main/java/com/stockpredictor/model/User.java
+/workspaces/stock-predictor/backend/src/main/java/com/stockpredictor/controller/AuthController.java
+/workspaces/stock-predictor/backend/src/main/java/com/stockpredictor/service/UserDetailsServiceImpl.java
+/workspaces/stock-predictor/backend/src/main/java/com/stockpredictor/StockPredictorApplication.java
+/workspaces/stock-predictor/backend/src/main/java/com/stockpredictor/security/JwtAuthFilter.java
+/workspaces/stock-predictor/backend/src/main/java/com/stockpredictor/controller/StockController.java
+/workspaces/stock-predictor/backend/src/main/java/com/stockpredictor/config/SecurityConfig.java
